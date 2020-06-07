@@ -1,4 +1,4 @@
-#To test the function, remove the hashtage in front of each print
+#To test the function, remove the hashtag in front of each print
 
 #Creation of a fucntion tenth_power
 def tenth_power(num):
