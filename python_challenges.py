@@ -1,6 +1,6 @@
 #To test the function, remove the hashtag in front of each print
 
-#Creation of a fucntion tenth_power
+#Creation of a function tenth_power
 def tenth_power(num):
 	return num**10
 
